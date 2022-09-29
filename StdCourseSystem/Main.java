@@ -1,3 +1,5 @@
+package StdCourseSystem;
+
 import entity.Student;
 import entity.Teacher;
 import enums.CourseEnum;
